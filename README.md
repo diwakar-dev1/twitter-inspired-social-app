@@ -26,9 +26,9 @@ A social networking application inspired by Twitter where users can share posts,
 
 ## Screenshots
 
-![Twitter-Inspired Social Media Application Home](./frontend/public/home.png)
+![Twitter-Inspired Social Media Application Home](./frontend/public/home.PNG)
 
-![Twitter-Inspired Social Media Application Profile](./frontend/public/profile.png)
+![Twitter-Inspired Social Media Application Profile](./frontend/public/profile.PNG)
 
 ## Live Demo
 
@@ -60,7 +60,6 @@ npm start
 PORT = 
 MONGO_URL = 
 JWT_SECRET= 
-# NODE_ENV = 
 NODE_ENV = 
 CLOUDINARY_CLOUD_NAME = 
 CLOUDINARY_API_KEY = 
