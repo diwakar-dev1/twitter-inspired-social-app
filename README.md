@@ -32,7 +32,7 @@ A social networking application inspired by Twitter where users can share posts,
 
 ## Live Demo
 
-https://twitter-clone-cznk.onrender.com
+https://twitter-inspired-social-app.onrender.com
 
 
 ## GitHub Repository
