@@ -1,7 +1,7 @@
 export const POSTS = [
 	{
 		_id: "1",
-		text: "Let's build a fullstack WhatsApp clone with NEXT.JS 14 😍",
+		text: "Let's build a twitter",
 		img: "/posts/post1.png",
 		user: {
 			username: "johndoe",
@@ -11,7 +11,7 @@ export const POSTS = [
 		comments: [
 			{
 				_id: "1",
-				text: "Nice Tutorial",
+				text: "Nice ",
 				user: {
 					username: "janedoe",
 					profileImg: "/avatars/girl1.png",
